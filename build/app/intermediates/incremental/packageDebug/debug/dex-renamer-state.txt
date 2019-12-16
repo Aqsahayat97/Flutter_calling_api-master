@@ -1,0 +1,4 @@
+#Mon Dec 16 15:03:55 AST 2019
+base.0=C\:\\Users\\aqsa\\AndroidStudioProjects\\Flutter_calling_api-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
